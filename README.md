@@ -19,6 +19,7 @@
 <!-- - :trophy: `ACPC` Finalist 2021 -->
 - :technologist: Amo utilizar a tecnologia para resolver `Problemas` e criar `Soluções`
 - :student: Atualmente estou estudando: `.NET (CRUD REST API)` e `C#`
+- :trollface: Um `commit` é pouco, dois é bom, três é `bug`.
 - :nerd_face: Sempre `aprendendo coisas novas`.
 
 <br>
