@@ -40,7 +40,7 @@
 
 ## 🛠️ Minhas Skills
 
-### 👉 Linguagens de Programação
+### 👉 Linguagens de Programação (Back-End)
 
 <p align="center"> 
   &emsp; 
@@ -70,7 +70,7 @@
   
 </p>
 
-### 👉 Desenvolvimento Front-End
+### 👉 Desenvolvimento (Front-End)
 <p align="center"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
