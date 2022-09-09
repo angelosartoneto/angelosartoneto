@@ -30,7 +30,7 @@
 
 <br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Para entrar em contato comigo:
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Entre em contato:
 <p align="center">
 	<a href="mailto:angelosartoneto1601@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/angelosartoneto"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -41,68 +41,70 @@
 
 ## 🛠️ Minhas Skills
 
-### 👉 Linguagens de Programação (Back-End)
+### :octocat: Linguagens de Programação (Back-End)
 
 <p align="center"> 
   &emsp; 
-  <a href="https://www.w3schools.com/cs/index.php" target="_blank"> 
+  <a href="" target="_blank"> 
     <img alt="C" src="https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white">
   </a> 
   &emsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
+  <a href="" target="_blank"> 
     <img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white">
   </a> 
   &emsp;
-  <a href="https://www.typescriptlang.org/" target="_blank"> 
+  <a href="" target="_blank"> 
      <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-informational.svg?style=plastic&logo=typescript&logoColor=white">
    </a>
   &emsp;
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <a href="" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
    </a>
   &emsp;
-  <a href="https://www.java.com" target="_blank"> 
+  <a href="" target="_blank"> 
     <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white">
   </a>
   &emsp;
-  <a href="https://www.java.com" target="_blank"> 
+  <a href="" target="_blank"> 
     <img alt="Java" src="https://img.shields.io/badge/-Swagger-%23Clojure?style=plastic&logo=swagger&logoColor=white">
   </a>
   
 </p>
 
-### 👉 Desenvolvimento (Front-End)
+### :iphone: Desenvolvimento (Front-End)
 <p align="center"> 
   &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
+  <a href="" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
   </a>   
   &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
+  <a href="" target="_blank">
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
   </a> 
    &emsp;
-  <a href="https://www.w3schools.com/sass/" target="_blank">
+  <a href="" target="_blank">
     <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white">
   </a> 
     &emsp;
-  <a href="https://www.w3schools.com/sass/" target="_blank">
+  <a href="" target="_blank">
     <img alt="BootStrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white)">
   </a> 
   &emsp;
-  <a href="https://www.w3schools.com/sass/" target="_blank">
+  <a href="" target="_blank">
     <img alt="ANGULAR" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white">
   </a> 
 </p>
 
- ### 👉 Banco de Dados
+
+ ### :computer: Banco de Dados
  <p align="center">
  &emsp;
     <a href="#"><img alt="SQL" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white"></a>
+    
 
- ### 👉 Software & Ferramentas
+ ### :notebook_with_decorative_cover: Softwares & Ferramentas
  
 <p align="center">
   &emsp;
@@ -125,6 +127,7 @@
     <a href="#"><img alt="Gimp" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white"></a>
 </p>
 
+
  ### 👉 IDEs
  
 <p align="center">
@@ -137,7 +140,7 @@
 </p>
 
 
- ### 👉 Sistemas Operacionais
+ ### :globe_with_meridians: Sistemas Operacionais
  
 <p align="center">
   &emsp;
@@ -158,7 +161,6 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=angelosartoneto&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="angelosartoneto" height="142px"/>
   </p>
 
-----
 
   <summary><b>⚡ Atividades Recentes no GitHub</b></summary>
   <br/>
