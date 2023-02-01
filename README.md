@@ -14,8 +14,8 @@
 ## :sassy_man:  Sobre mim:
 - :school: Desenvolvedor `Junior` - Fullstack Angular 14 / C# / Java / .NET Core
 <!-- - :trophy: `ACPC` Finalist 2021 -->
-- :technologist: Faço da tecnologia `soluções` para resolver `Problemas`
-- :student: Atualmente faço parte da turma SENAI/SC - 2023 `Floripa +Tech`
+- :technologist: Faço da tecnologia `soluções` para resolver `problemas`
+- :student: Atualmente estou ampliando minhas stacks com o SENAI/SC - 2023 `Floripa +Tech`
 - :nerd_face: Conhecimento `nunca é demais`.
 
 <br>
