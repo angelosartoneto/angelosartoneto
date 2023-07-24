@@ -12,9 +12,8 @@
 
 
 ## :sassy_man:  Sobre mim:
-- :school: Desenvolvedor `Junior` - Fullstack Angular 14 / C# / Java / .NET Core
+- :school: Desenvolvedor `Junior` - Full Stack CSS / BootStrap / JavaScript / Angular 14 / C# / Java / .NET Core
 - :technologist: Faço da tecnologia `soluções` para resolver `problemas`
-- :student: Atualmente estou ampliando minhas stacks com o SENAI/SC - 2023 `Floripa +Tech`
 - :nerd_face: Conhecimento `nunca é demais`.
 
 <br>
