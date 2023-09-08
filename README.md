@@ -11,10 +11,11 @@
 </p>
 
 
-## :sassy_man:  Sobre mim:
-- Desenvolvedor - HTML / CSS / BootStrap / JavaScript / Angular 14 / C# / Java / .NET Core
-- Faço da tecnologia `soluções` para resolver `problemas`
-- Conhecimento `nunca é demais`.
+## Sobre mim:
+- Homem, 35 anos, casado, cabelos castanhos, uso óculos e tenho barba. 
+- Sou formado em Administração e trabalho com tecnologia há mais de 15 anos.
+- Minhas experiências são em Infraestrutura. Atualmente estou migrando para desenvolvimento. 
+- As stacks que venho dominando - `HTML5 | CSS3 | BootStrap | JavaScript | Angular 14 | C# | Java | .NET Core`
 
 <br>
 
