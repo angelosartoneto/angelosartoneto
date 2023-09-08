@@ -12,9 +12,9 @@
 
 
 ## :sassy_man:  Sobre mim:
-- :school: Desenvolvedor - HTML / CSS / BootStrap / JavaScript / Angular 14 / C# / Java / .NET Core
-- :technologist: Faço da tecnologia `soluções` para resolver `problemas`
-- :nerd_face: Conhecimento `nunca é demais`.
+- Desenvolvedor - HTML / CSS / BootStrap / JavaScript / Angular 14 / C# / Java / .NET Core
+- Faço da tecnologia `soluções` para resolver `problemas`
+- Conhecimento `nunca é demais`.
 
 <br>
 
