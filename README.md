@@ -12,7 +12,7 @@
 
 
 ## :sassy_man:  Sobre mim:
-- :school: Desenvolvedor `Junior` - Full Stack HTML / CSS / BootStrap / JavaScript / Angular 14 / C# / Java / .NET Core
+- :school: Desenvolvedor - HTML / CSS / BootStrap / JavaScript / Angular 14 / C# / Java / .NET Core
 - :technologist: Faço da tecnologia `soluções` para resolver `problemas`
 - :nerd_face: Conhecimento `nunca é demais`.
 
