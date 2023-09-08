@@ -15,7 +15,7 @@
 - Homem, 35 anos, casado, cabelos castanhos, uso óculos e tenho barba. 
 - Sou formado em Administração e trabalho com tecnologia há mais de 15 anos.
 - Minhas experiências são em Infraestrutura. Atualmente estou migrando para desenvolvimento. 
-- As stacks que venho dominando - `HTML5 | CSS3 | BootStrap | JavaScript | Angular 14 | C# | Java | .NET Core`
+- Stacks que venho dominando - `HTML5 | CSS3 | BootStrap | JavaScript | Angular 14 | C# | Java | .NET Core`
 
 <br>
 
