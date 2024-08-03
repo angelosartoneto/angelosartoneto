@@ -1,12 +1,6 @@
 <h1 align="center">Olá , me chamo Angelo De Bortoli Sarto <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
 
-<br>
-
-<p align="left"> 
-	<img src="https://komarev.com/ghpvc/?username=angelosartoneto&label=Profile%20views&color=0e75b6&style=plastic" alt="angelosartoneto" /> 
-</p>
-
 ## Sobre mim:
 - Homem, 36 anos, cabelo curto, uso óculos e tenho barba. 
 - Trabalho com tecnologia há mais de 15 anos.
@@ -25,7 +19,7 @@
 
 ## 🔥 Streak Stats
 <br>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=angelosartoneto&locale=pt-br&theme=algolia" alt="angelosartoneto" /></p>
+<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=angelosartoneto&locale=pt-br&theme=algolia" alt="angelosartoneto" /></p>
 
 <br>
 
@@ -158,3 +152,7 @@
 ## :trophy: Git profile troféus
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=angelosartoneto&layout=compact&locale=pt-br&theme=algolia" alt="angelosartoneto" /></a> </p>
+
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=angelosartoneto&label=Profile%20views&color=0e75b6&style=plastic" alt="angelosartoneto" /> 
+</p>
