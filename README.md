@@ -3,7 +3,7 @@
 
 <br>
 
-<p align="center"> 
+<p align="left"> 
 	<img src="https://komarev.com/ghpvc/?username=angelosartoneto&label=Profile%20views&color=0e75b6&style=plastic" alt="angelosartoneto" /> 
 </p>
 
@@ -13,7 +13,7 @@
 - Minhas experiências anteriores são em Infraestrutura em TI. 
 - Nos ultimos anos estou me dedicando em - `HTML5 | CSS3 | BootStrap | JavaScript | Angular 14 | C# | Java | .NET `
 
-## <img src="" width="30px"> Entre em contato:
+## Entre em contato:
 <p align="left">
 <a href="https://www.dio.me/users/fullstack_adbs"><img img src="https://img.shields.io/badge/DIO-%23181717.svg?style=plastic" alt="Dio"/></a>
 	<a href="mailto:angelosartoneto1601@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
