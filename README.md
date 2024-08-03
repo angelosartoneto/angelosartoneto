@@ -1,8 +1,5 @@
 <h1 align="center">Olá , me chamo Angelo De Bortoli Sarto <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Desenvolvedor+Fullstack+Jr.; /></a>
-</p>
-
 
 <br>
 
@@ -10,28 +7,29 @@
 	<img src="https://komarev.com/ghpvc/?username=angelosartoneto&label=Profile%20views&color=0e75b6&style=plastic" alt="angelosartoneto" /> 
 </p>
 
-
 ## Sobre mim:
-- Homem, 35 anos, cabelo curto, uso óculos e tenho barba. 
-- Sou formado em Administração e trabalho com tecnologia há mais de 15 anos.
-- Minhas experiências são em Infraestrutura. Atualmente estou migrando para desenvolvimento. 
-- Stacks que venho dominando - `HTML5 | CSS3 | BootStrap | JavaScript | Angular 14 | C# | Java | .NET Core`
+- Homem, 36 anos, cabelo curto, uso óculos e tenho barba. 
+- Trabalho com tecnologia há mais de 15 anos.
+- Minhas experiências anteriores são em Infraestrutura em TI. 
+- Nos ultimos anos estou me dedicando em - `HTML5 | CSS3 | BootStrap | JavaScript | Angular 14 | C# | Java | .NET `
 
-<br>
-
-## 🔥 Streak Stats
-<br>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=angelosartoneto&theme=algolia" alt="angelosartoneto" /></p>
-
-<br>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Entre em contato:
-<p align="center">
+## <img src="" width="30px"> Entre em contato:
+<p align="left">
+<a href="https://www.dio.me/users/fullstack_adbs"><img img src="https://img.shields.io/badge/DIO-%23181717.svg?style=plastic" alt="Dio"/></a>
 	<a href="mailto:angelosartoneto1601@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/angelosartoneto"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/sartoangeloneto/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/angelosartoneto/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
+
+
+## 🔥 Streak Stats
+<br>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=angelosartoneto&locale=pt-br&theme=algolia" alt="angelosartoneto" /></p>
+
+<br>
+
+
 
 
 ## 🛠️ Minhas Skills
@@ -90,7 +88,6 @@
   </a> 
 </p>
 
-
  ### :computer: Banco de Dados
  <p align="center">
  &emsp;
@@ -148,23 +145,16 @@
 
 ## 📊 Github Status
 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
+
   <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Angelo's Github Status" src="https://github-readme-stats.vercel.app/api?username=angelosartoneto&show_icons=true&count_private=true&theme=algolia" height="142px"/></a>
+  <p align="left">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Angelo's Github Status" src="https://github-readme-stats.vercel.app/api?username=angelosartoneto&show_icons=true&count_private=true&locale=pt-br&theme=algolia" height="142px"/></a>
   &nbsp;
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=angelosartoneto&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="angelosartoneto" height="142px"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=angelosartoneto&langs_count=10&show_icons=true&locale=pt-br&layout=compact&theme=algolia" alt="angelosartoneto" height="162px"/>
   </p>
-
-
-  <summary><b>⚡ Atividades Recentes no GitHub</b></summary>
-  <br/>
-   <a href="https://github.com/angelosartoneto"><img alt="Angelo's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=angelosartoneto&custom_title=angelosartoneto's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
 
 <br/>
 
-## :trophy: Git profile Trophies
+## :trophy: Git profile troféus
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=angelosartoneto&layout=compact&theme=algolia" alt="angelosartoneto" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=angelosartoneto&layout=compact&locale=pt-br&theme=algolia" alt="angelosartoneto" /></a> </p>
