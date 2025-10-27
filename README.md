@@ -32,7 +32,11 @@
 <p align="center"> 
 &emsp; 
   <a href="" target="_blank"> 
-    <img alt="Python" src="https://img.shields.io/badge/Python-blue.svg?logo=python&logoColor=yellow">
+    <img alt="Python" src="https://img.shields.io/badge/Python-blue.svg?style=plastic&logo=python&logoColor=yellow">
+  </a> 
+  &emsp; 
+	<a href="" target="_blank"> 
+    <img alt="Vue" src="https://img.shields.io/badge/Vue.js-2c3e50?logo=vue.js&style=plastic&logoColor=4FC08D">
   </a> 
   &emsp; 
   <a href="" target="_blank"> 
@@ -44,19 +48,19 @@
   </a> 
   &emsp;
   <a href="" target="_blank"> 
-     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-informational.svg?style=plastic&logo=typescript&logoColor=white">
+     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-informational.svg?style=plastic&logo=Typescript&logoColor=white">
    </a>
   &emsp;
     <a href="" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
+     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=JavaScript&logoColor=black">
    </a>
   &emsp;
   <a href="" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white">
+    <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=Java&logoColor=white">
   </a>
   &emsp;
   <a href="" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/-Swagger-%23Clojure?style=plastic&logo=swagger&logoColor=white">
+    <img alt="Swagger" src="https://img.shields.io/badge/-Swagger-%23Clojure?style=plastic&logo=Swagger&logoColor=white">
   </a>
   
 </p>
