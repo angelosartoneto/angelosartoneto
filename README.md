@@ -32,7 +32,7 @@
 <p align="center"> 
 &emsp; 
   <a href="" target="_blank"> 
-    <img alt="Python" src="https://img.shields.io/badge/MyProject-Python-blue.svg?logo=python>
+    <img alt="Python" src="https://img.shields.io/badge/Python-blue.svg?logo=python&logoColor=yellow">
   </a> 
   &emsp; 
   <a href="" target="_blank"> 
