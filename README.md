@@ -2,17 +2,16 @@
 <p align="center">
 
 ## Sobre mim:
-- Homem, 36 anos, cabelo curto, uso óculos e tenho barba. 
-- Trabalho com tecnologia há mais de 15 anos.
-- Minhas experiências anteriores são em Infraestrutura em TI. 
-- Nos ultimos anos estou me dedicando em - `HTML5 | CSS3 | BootStrap | JavaScript | Angular 14 | C# | Java | .NET `
+- Homem, 37 anos, cabelo curto, uso óculos e tenho barba. 
+- Trabalho com tecnologia há mais de 15 anos e minhas experiências anteriores são em Infraestrutura em TI. 
+- Estou cursando minha segunda gradução em Sistemas de Informação e realizando cursos de qualificação na area de desenvolvimento e nuvem.
 
 ## Entre em contato:
 <p align="left">
 <a href="https://www.dio.me/users/fullstack_adbs"><img img src="https://img.shields.io/badge/DIO-%23181717.svg?style=plastic" alt="Dio"/></a>
-	<a href="mailto:angelosartoneto1601@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="mailto:fullstack.adbs@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/angelosartoneto"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/sartoangeloneto/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://www.linkedin.com/in/angelobortolisarto/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/angelosartoneto/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
@@ -31,6 +30,10 @@
 ### :octocat: Linguagens de Programação (Back-End)
 
 <p align="center"> 
+ &emsp; 
+  <a href="" target="_blank"> 
+    <img alt="C" src="https://img.shields.io/badge/python.svg?style=plastic&logo=c-sharp&logoColor=white">
+  </a> 
   &emsp; 
   <a href="" target="_blank"> 
     <img alt="C" src="https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white">
