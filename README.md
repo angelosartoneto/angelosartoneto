@@ -34,11 +34,7 @@
   <a href="" target="_blank"> 
     <img alt="Python" src="https://img.shields.io/badge/Python-blue.svg?style=plastic&logo=python&logoColor=yellow">
   </a> 
-  &emsp; 
-	<a href="" target="_blank"> 
-    <img alt="Vue" src="https://img.shields.io/badge/Vue.js-2c3e50?logo=vue.js&style=plastic&logoColor=4FC08D">
-  </a> 
-  &emsp; 
+  &emsp;  
   <a href="" target="_blank"> 
     <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white">
   </a> 
@@ -86,6 +82,10 @@
   &emsp;
   <a href="" target="_blank">
     <img alt="ANGULAR" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white">
+  </a> 
+	&emsp;
+	<a href="" target="_blank"> 
+    <img alt="Vue" src="https://img.shields.io/badge/Vue.js-2c3e50?logo=vue.js&style=plastic&logoColor=4FC08D">
   </a> 
 </p>
 
