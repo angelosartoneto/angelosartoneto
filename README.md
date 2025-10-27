@@ -30,13 +30,13 @@
 ### :octocat: Linguagens de Programação (Back-End)
 
 <p align="center"> 
- &emsp; 
+&emsp; 
   <a href="" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/python.svg?style=plastic&logo=c-sharp&logoColor=white">
+    <img alt="Python" src="https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=python&logoColor=white">
   </a> 
   &emsp; 
   <a href="" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white">
+    <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white">
   </a> 
   &emsp;
   <a href="" target="_blank"> 
