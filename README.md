@@ -4,7 +4,8 @@
 ## Sobre mim:
 - Homem, 37 anos, cabelo curto, uso óculos e tenho barba. 
 - Trabalho com tecnologia há mais de 15 anos e minhas experiências anteriores são em Infraestrutura em TI. 
-- Estou cursando minha segunda gradução em Sistemas de Informação e realizando cursos de qualificação na area de desenvolvimento e nuvem.
+- Estou cursando minha segunda gradução em Sistemas de Informação.
+- E realizo cursos de qualificação na area de desenvolvimento e computação em nuvem.
 
 ## Entre em contato:
 <p align="left">
@@ -18,7 +19,7 @@
 
 ## 🔥 Streak Stats
 <br>
-<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=angelosartoneto&locale=pt-br&theme=algolia" alt="angelosartoneto" /></p>
+<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=angelosartoneto&locale=pt-br&theme=algolia"/></p>
 
 <br>
 
