@@ -111,6 +111,9 @@
   <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=angelosartoneto&show_icons=true&count_private=true&locale=pt-br&theme=shadow_blue&rank_icon=github" />
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=angelosartoneto&layout=compact&card_width=320&theme=shadow_blue" />
 </p>
+## 🔥 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=angelosartoneto&theme=algolia&locale=pt_BR&mode=weekly)](https://git.io/streak-stats)
 <p align="center">
    <img href="https://git.io/streak-stats" src="https://streak-stats.demolab.com/?user=angelosartoneto&locale=pt-br&theme=algolia&mode=weekly" />
 </p><br>
