@@ -30,7 +30,7 @@
 
 ### :octocat: Back-End
 
-<p align="center"> 
+<p align="left"> 
 &emsp; 
   <a href="" target="_blank"> 
     <img alt="Python" src="https://img.shields.io/badge/Python-blue.svg?style=plastic&logo=python&logoColor=yellow">
@@ -50,8 +50,8 @@
   
 </p>
 
-### 📰: Front-End
-<p align="center"> 
+### 📰 Front-End
+<p align="left"> 
   &emsp; 
   <a href="" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
@@ -90,8 +90,8 @@
   </a>
 </p>
 
- ### 🎲: Database
- <p align="center">
+ ### 🎲 Database
+ <p align="left">
  	&emsp;
     <a href="#"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white"></a>
   	&emsp;
@@ -100,9 +100,9 @@
     <a href="#"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-4169E1?logo=sqlite&logoColor=fff&style=plastic"></a>
     
 
- ### 🖥️: Softwares & Ferramentas
+ ### 🖥️ Softwares & Ferramentas
  
-<p align="center">
+<p align="left">
   &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
   &emsp;
@@ -126,7 +126,7 @@
 
  ### 👉 IDEs
  
-<p align="center">
+<p align="left">
 &emsp;
     <a href="#"><img alt="Visual Studio" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white"></a>
   &emsp;
@@ -136,10 +136,12 @@
 </p>
 
 ### 🤝 Collab Tools
+<p align="left">
 &emsp;
 	<a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff"></a>
   &emsp;
     <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff" /></a>
+</p>
 
  ### :globe_with_meridians: Sistemas Operacionais
  
@@ -150,7 +152,7 @@
     <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
-<br/>
+</p>
 
 ## 📊 Github Status
 
