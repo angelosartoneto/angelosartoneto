@@ -112,7 +112,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=angelosartoneto&layout=compact&card_width=320&theme=shadow_blue" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=angelosartoneto&theme=great-gatsby" />
+    [![GitHub Streak](https://streak-stats.demolab.com/?user=angelosartoneto)](https://git.io/streak-stats)
 </p><br>
 
 
