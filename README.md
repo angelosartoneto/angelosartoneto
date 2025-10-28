@@ -112,7 +112,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=angelosartoneto&layout=compact&card_width=320&theme=shadow_blue" />
 </p>
 <p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=angelosartoneto&locale=pt-br&theme=algolia" />
+   <img href="https://git.io/streak-stats" src="https://streak-stats.demolab.com/?user=angelosartoneto&locale=pt-br&theme=algolia&mode=weekly" />
 </p><br>
 
 
