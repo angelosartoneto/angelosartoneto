@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  Desenvolvedor apaixonado por tecnologia e aprendizado contínuo 🚀
+  Dev em ascensão, fascinado por tecnologia e jogos. 🚀
 </p>
 
 ## 👤 Sobre mim
