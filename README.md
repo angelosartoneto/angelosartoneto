@@ -109,8 +109,8 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=angelosartoneto&locale=pt-br&theme=algolia" />
-  <img src="https://github-readme-stats.vercel.app/api?username=angelosartoneto&show_icons=true&count_private=true&locale=pt-br&theme=algolia" height="142px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=angelosarton" />
+  <img src="https://github-readme-stats.vercel.app/api?username=angelosartoneto&show_icons=true&count_private=true&locale=pt-br&theme=algolia" height="200px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=angelosartoneto" />
 </p>
 
   
