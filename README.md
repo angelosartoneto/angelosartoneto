@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Me chamo Angelo. <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTh6N3RhY2J4cG95bDZ3Z21zN2l3aGZ0dTF1cDRxeTBoMjd3NzAwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L3NCw3UC3Gw36P5s4C/giphy.gif" width="180" height="80" style="" frameBorder=""></h1>
+<h1 align="center">Olá! Me chamo Angelo. <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTg3Y2p2ajdiaWc3eGQyNG8yenE3Y3JoMWZibnk3a2J0MHJ4a294ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o72FaZgzzFmqoNfBm/giphy.gif" width="180" height="80" style="" frameBorder=""></h1>
 <p align="center">
 
 ## Sobre mim:
