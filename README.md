@@ -113,7 +113,7 @@
 </p>
 ##  Streak
 
-[![GitHub Streak 🔥](https://github-streak-stats.vercel.app/api?username=angelosartoneto&theme=algolia)](https://github.com/angelosartoneto/github-streak-stats)
+[![GitHub Streak 🔥](https://github-readme-streak-stats.vercel.app/api?username=angelosartoneto&theme=algolia)](https://github.com/angelosartoneto/github-readme-streak-stats)
 <br>
 
 
