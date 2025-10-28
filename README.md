@@ -113,7 +113,7 @@
 </p>
 ## 🔥 GitHub Streak
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelosartoneto)](https://github.com/angelosartoneto/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelosartoneto&theme=radical)](https://github.com/angelosartoneto/github-readme-stats)
 <p align="center">
    <img href="https://git.io/streak-stats" src="https://streak-stats.demolab.com/?user=angelosartoneto&locale=pt-br&theme=algolia&mode=weekly" />
 </p><br>
