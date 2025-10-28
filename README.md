@@ -1,4 +1,4 @@
-<h1 align="center">Olá , me chamo Angelo De Bortoli Sarto <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWt5Zm1jNXpmbnEyYnJhNHp2cTJ6dzRubG9ldDZpeno2M2oza21nNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SOrriiX6kX6UBMZzbt/giphy.gif" width="35"></h1>
+<h1 align="center">Olá , me chamo Angelo De Bortoli Sarto <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWt5Zm1jNXpmbnEyYnJhNHp2cTJ6dzRubG9ldDZpeno2M2oza21nNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SOrriiX6kX6UBMZzbt/giphy.gif" width="65"></h1>
 <p align="center">
 
 ## Sobre mim:
