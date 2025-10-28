@@ -1,11 +1,11 @@
-<h1 align="center">Olá , me chamo Angelo De Bortoli Sarto <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Olá , me chamo Angelo De Bortoli Sarto <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWt5Zm1jNXpmbnEyYnJhNHp2cTJ6dzRubG9ldDZpeno2M2oza21nNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SOrriiX6kX6UBMZzbt/giphy.gif" width="35"></h1>
 <p align="center">
 
 ## Sobre mim:
 - Homem, 37 anos, cabelo curto, uso óculos e tenho barba. 
 - Trabalho com tecnologia há mais de 15 anos e minhas experiências anteriores são em Infraestrutura em TI. 
 - Estou cursando minha segunda gradução em Sistemas de Informação.
-- E realizo cursos de qualificação na area de desenvolvimento e computação em nuvem.
+- Realizo cursos de qualificação na área de desenvolvimento de sistemas e computação em nuvem.
 
 ## Entre em contato:
 <p align="left">
