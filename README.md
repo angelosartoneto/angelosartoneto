@@ -19,16 +19,16 @@
 
 ## 🔥 Streak Stats
 <br>
-<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=angelosartoneto&locale=pt-br&theme=algolia"/></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=angelosartoneto&locale=pt-br&theme=algolia"/></p>
 
 <br>
 
 
 
 
-## 🛠️ Minhas Skills
+## 📐 Hard Skills
 
-### :octocat: Linguagens de Programação (Back-End)
+### :octocat: Back-End
 
 <p align="center"> 
 &emsp; 
@@ -45,24 +45,12 @@
   </a> 
   &emsp;
   <a href="" target="_blank"> 
-     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-informational.svg?style=plastic&logo=Typescript&logoColor=white">
-   </a>
-  &emsp;
-    <a href="" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=JavaScript&logoColor=black">
-   </a>
-  &emsp;
-  <a href="" target="_blank"> 
     <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=Java&logoColor=white">
-  </a>
-  &emsp;
-  <a href="" target="_blank"> 
-    <img alt="Swagger" src="https://img.shields.io/badge/-Swagger-%23Clojure?style=plastic&logo=Swagger&logoColor=white">
   </a>
   
 </p>
 
-### :iphone: Desenvolvimento (Front-End)
+### 📰: Front-End
 <p align="center"> 
   &emsp; 
   <a href="" target="_blank"> 
@@ -80,6 +68,14 @@
   <a href="" target="_blank">
     <img alt="BootStrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white)">
   </a> 
+	&emsp;
+  <a href="" target="_blank"> 
+     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-informational.svg?style=plastic&logo=Typescript&logoColor=white">
+   </a>
+  &emsp;
+    <a href="" target="_blank"> 
+     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=JavaScript&logoColor=black">
+   </a>
   &emsp;
   <a href="" target="_blank">
     <img alt="ANGULAR" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white">
@@ -88,17 +84,23 @@
 	<a href="" target="_blank"> 
     <img alt="Vue" src="https://img.shields.io/badge/Vue.js-2c3e50?logo=vue.js&style=plastic&logoColor=4FC08D">
   </a> 
+	&emsp;
+  <a href="" target="_blank"> 
+    <img alt="Swagger" src="https://img.shields.io/badge/-Swagger-%23Clojure?style=plastic&logo=Swagger&logoColor=white">
+  </a>
 </p>
 
- ### :computer: Banco de Dados
+ ### 🎲: Database
  <p align="center">
- &emsp;
-    <a href="#"><img alt="SQL" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white"></a>
+ 	&emsp;
+    <a href="#"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white"></a>
+  	&emsp;
+    <a href="#"><img alt="Postgres" src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white"></a>
+	&emsp;
+    <a href="#"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-4169E1?logo=sqlite&logoColor=fff&style=plastic"></a>
     
 
- ### :notebook_with_decorative_cover: Softwares & Ferramentas
+ ### 🖥️: Softwares & Ferramentas
  
 <p align="center">
   &emsp;
@@ -126,13 +128,18 @@
  
 <p align="center">
 &emsp;
-    <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=plastic&logo=visual-studio&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
+    <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white" /></a>
 </p>
 
+### 🤝 Collab Tools
+&emsp;
+	<a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff"></a>
+  &emsp;
+    <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff" /></a>
 
  ### :globe_with_meridians: Sistemas Operacionais
  
@@ -159,7 +166,7 @@
 
 ## :trophy: Git profile troféus
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=angelosartoneto&layout=compact&locale=pt-br&theme=algolia" alt="angelosartoneto" /></a> </p>
+<p align="left"> <a href="https://github.com/angelosartoneto/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=angelosartoneto&layout=compact&locale=pt-br&theme=algolia" alt="angelosartoneto" /></a> </p>
 
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=angelosartoneto&label=Profile%20views&color=0e75b6&style=plastic" alt="angelosartoneto" /> 
