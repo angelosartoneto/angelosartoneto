@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  Dev em ascensão, fascinado por tecnologia e jogos. 🚀
+  Dev, fascinado por tecnologia e jogos online. 🚀
 </p>
 
 ## 👤 Sobre mim
@@ -17,17 +17,11 @@
 ## 📬 Entre em contato
 
 <p align="left">
-  <a href="https://www.dio.me/users/fullstack_adbs"><img src="https://img.shields.io/badge/DIO-%23181717.svg?style=plastic" alt="DIO" /></a>
   <a href="mailto:fullstack.adbs@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://github.com/angelosartoneto"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/angelobortolisarto/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.dio.me/users/fullstack_adbs"><img src="https://img.shields.io/badge/DIO-%23181717.svg?style=plastic" alt="DIO" /></a>
+  <a href="https://github.com/angelosartoneto"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.instagram.com/angelosartoneto/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram" /></a>
-</p>
-
-## 🔥 Streak Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=angelosartoneto&locale=pt-br&theme=algolia" />
 </p>
 
 ## 📐 Hard Skills
@@ -66,22 +60,22 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=plastic&logo=Swagger&logoColor=white" alt="Swagger" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=white" alt="Insomnia" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Insomnia-4000BF?style=plastic&logo=insomnia&logoColor=white" alt="Insomnia" />
 </p>
 
 ### 🗄️ Banco de Dados
 
 <p align="left">
-  <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" alt="Postgres" />
-  <img src="https://img.shields.io/badge/SQLite-4169E1?logo=sqlite&logoColor=fff&style=plastic" alt="SQLite" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=mssqlserver-white&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white" alt="Postgres" />
+  <img src="https://img.shields.io/badge/SQLite-4169E1?style=plastic&logo=sqlite&logoColor=fff&style=plastic" alt="SQLite" />
 </p>
 
 ### 💻 IDEs
 
 <p align="left">
-  <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white" alt="Visual Studio" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?style=plastic&logo=visualstudio&logoColor=white" alt="Visual Studio" />
   <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=vsc&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=plastic&logo=Eclipse&logoColor=white" alt="Eclipse" />
 </p>
@@ -89,16 +83,16 @@
 ### 🤝 Ferramentas de Colaboração
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff" alt="Jira" />
-  <img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff" alt="Trello" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=plastic&logo=jira&logoColor=fff" alt="Jira" />
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=plastic&logo=trello&logoColor=fff" alt="Trello" />
 </p>
 
 ### 🌐 Sistemas Operacionais
 
 <p align="left">
   <img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?style=plastic&logo=windows11&logoColor=white" alt="Windows" />
-  <img src="https://img.shields.io/badge/FreeBSD-AB2B28?logo=freebsd&logoColor=fff" alt="FreeBSD" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/FreeBSD-AB2B28?style=plastic&logo=freebsd&logoColor=fff" alt="FreeBSD" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white" alt="Ubuntu" />
 </p>
 
 ### 🛠️ Softwares
@@ -109,6 +103,12 @@
   <img src="https://img.shields.io/badge/Microsoft_Visio-3955A3?style=plastic&logo=microsoft-visio&logoColor=white" alt="Visio" />
   <img src="https://img.shields.io/badge/Gimp-657D8B?style=plastic&logo=gimp&logoColor=FFFFFF" alt="Gimp" />
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white" alt="Figma" />
+</p>
+
+## 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=angelosartoneto&locale=pt-br&theme=algolia" />
 </p>
 
 ## 📊 GitHub Status
