@@ -108,12 +108,10 @@
 ## 📊 GitHub Stats
 
 <p>
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=angelosartoneto&show_icons=true&count_private=true&locale=pt-br&theme=shadow_blue&rank_icon=github&card_width=520" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=angelosartoneto&layout=compact&card_width=520&theme=shadow_blue" />
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=angelosartoneto&show_icons=true&count_private=true&locale=pt-br&theme=shadow_blue&rank_icon=github&card_width=500" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=angelosartoneto&layout=compact&card_width=500&theme=shadow_blue" />
 </p>
-##  Streak
 
-[![GitHub Streak 🔥](https://github-readme-streak-stats.herokuapp.com/?user=angelosartoneto&theme=dark)](https://git.io/streak-stats)
 <br>
 
 
