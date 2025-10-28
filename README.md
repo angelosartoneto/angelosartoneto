@@ -1,4 +1,4 @@
-<h1 align="center">Olá! me chamo Angelo. <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTI3MXlhbXJpbnoyczhseWwzOW10a3ZxNWF5cng2bHd0aTE0bXE2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CQl0tM5gYyqQg/giphy.gif" width="100"></h1>
+<h1 align="center">Olá! me chamo Angelo. <iframe src="https://giphy.com/embed/5eLDrEaRGHegx2FeF2" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/transparent-5eLDrEaRGHegx2FeF2">via GIPHY</a></p></h1>
 <p align="center">
 
 ## Sobre mim:
