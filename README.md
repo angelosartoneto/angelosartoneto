@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Me chamo Angelo. <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTg3Y2p2ajdiaWc3eGQyNG8yenE3Y3JoMWZibnk3a2J0MHJ4a294ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o72FaZgzzFmqoNfBm/giphy.gif" width="180" height="80" style="background-color=green" frameBorder=""></h1>
 <p align="center">
 
-## Sobre mim:
+## <mark>Sobre mim:</mark>
 - Homem, 37 anos, cabelo curto, uso óculos e tenho barba. 
 - Trabalho com tecnologia há mais de 15 anos e minhas experiências anteriores são em Infraestrutura em TI. 
 - Estou cursando minha segunda gradução em Sistemas de Informação.
