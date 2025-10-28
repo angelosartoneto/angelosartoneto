@@ -105,10 +105,10 @@
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
-## 🔥 Streak Stats e 📊 GitHub Status
+## 📊 Streak Stats e GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=angelosartoneto&locale=pt-br&theme=algolia" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=angelosartoneto&locale=pt-br&theme=holi" />
   <img src="https://github-readme-stats.vercel.app/api?username=angelosartoneto&show_icons=true&count_private=true&locale=pt-br&theme=algolia" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=angelosartoneto&theme=algolia" />
 </p>
