@@ -105,17 +105,15 @@
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
-## 📊 Streak Stats e GitHub Stats
+## 📊 GitHub Stats
 
 <p>
   <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=angelosartoneto&show_icons=true&count_private=true&locale=pt-br&theme=shadow_blue&rank_icon=github" />
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=angelosartoneto&layout=compact&card_width=320&theme=shadow_blue" />
 </p>
-## 🔥 GitHub Streak
+## 🔥 Streak
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelosartoneto&theme=shadow_blue)](https://github.com/angelosartoneto/github-readme-stats)
-<p align="center">
-   <img href="https://git.io/streak-stats" src="https://streak-stats.demolab.com/?user=angelosartoneto&locale=pt-br&theme=algolia&mode=weekly" />
-</p><br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelosartoneto&theme=shadow_blue&mode=weekly&rank_icon=github)](https://github.com/angelosartoneto/github-readme-stats)
+<br>
 
 
