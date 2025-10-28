@@ -113,7 +113,7 @@
 </p>
 ## 🔥 Streak
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelosartoneto&theme=shadow_blue&mode=weekly)](https://github.com/angelosartoneto/github-readme-stats)
+[![Anurag's GitHub stats](https://github-streak-stats.vercel.app/api?username=angelosartoneto&theme=shadow_blue&mode=weekly)](https://github.com/angelosartoneto/github-readme-stats)
 <br>
 
 
