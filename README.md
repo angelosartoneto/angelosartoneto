@@ -1,175 +1,106 @@
-<h1 align="center">Olá! Me chamo Angelo. <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTg3Y2p2ajdiaWc3eGQyNG8yenE3Y3JoMWZibnk3a2J0MHJ4a294ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o72FaZgzzFmqoNfBm/giphy.gif" width="180" height="80" style="background-color=green" frameBorder=""></h1>
+<h1 align="center">
+  Olá! Me chamo Angelo.
+  <img src="https://media1.giphy.com/media/3o72FaZgzzFmqoNfBm/giphy.gif" width="180" height="80" />
+</h1>
+
 <p align="center">
-
-## <mark>Sobre mim:</mark>
-- Homem, 37 anos, cabelo curto, uso óculos e tenho barba. 
-- Trabalho com tecnologia há mais de 15 anos e minhas experiências anteriores são em Infraestrutura em TI. 
-- Estou cursando minha segunda gradução em Sistemas de Informação.
-- Realizo cursos de qualificação na área de desenvolvimento de sistemas e computação em nuvem.
-
-## Entre em contato:
-<p align="left">
-<a href="https://www.dio.me/users/fullstack_adbs"><img img src="https://img.shields.io/badge/DIO-%23181717.svg?style=plastic" alt="Dio"/></a>
-	<a href="mailto:fullstack.adbs@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/angelosartoneto"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/angelobortolisarto/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://www.instagram.com/angelosartoneto/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  Desenvolvedor apaixonado por tecnologia e aprendizado contínuo 🚀
 </p>
 
+## 👤 Sobre mim
+
+- Homem, 37 anos, cabelo curto, uso óculos e tenho barba  
+- Mais de 15 anos de experiência em tecnologia, com foco anterior em Infraestrutura de TI  
+- Cursando minha segunda graduação em Sistemas de Informação  
+- Realizo cursos de qualificação em desenvolvimento de sistemas e computação em nuvem  
+
+## 📬 Entre em contato
+
+<p align="left">
+  <a href="https://www.dio.me/users/fullstack_adbs"><img src="https://img.shields.io/badge/DIO-%23181717.svg?style=plastic" alt="DIO" /></a>
+  <a href="mailto:fullstack.adbs@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://github.com/angelosartoneto"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/angelobortolisarto/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/angelosartoneto/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
 
 ## 🔥 Streak Stats
-<br>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=angelosartoneto&locale=pt-br&theme=algolia"/></p>
 
-<br>
-
-
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=angelosartoneto&locale=pt-br&theme=algolia" />
+</p>
 
 ## 📐 Hard Skills
 
-### :octocat: Back-End
+### 🐍 Back-End
 
-<p align="left"> 
-&emsp; 
-  <a href="" target="_blank"> 
-    <img alt="Python" src="https://img.shields.io/badge/Python-blue.svg?style=plastic&logo=python&logoColor=yellow">
-  </a> 
-  &emsp;  
-  <a href="" target="_blank"> 
-    <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="" target="_blank"> 
-    <img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=Java&logoColor=white">
-  </a>
-  
-</p>
-
-### 📰 Front-End
-<p align="left"> 
-  &emsp; 
-  <a href="" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
-  </a>   
-  &emsp;
-  <a href="" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
-  </a> 
-   &emsp;
-  <a href="" target="_blank">
-    <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white">
-  </a> 
-    &emsp;
-  <a href="" target="_blank">
-    <img alt="BootStrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white)">
-  </a> 
-	&emsp;
-  <a href="" target="_blank"> 
-     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-informational.svg?style=plastic&logo=Typescript&logoColor=white">
-   </a>
-  &emsp;
-    <a href="" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=JavaScript&logoColor=black">
-   </a>
-  &emsp;
-  <a href="" target="_blank">
-    <img alt="ANGULAR" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white">
-  </a> 
-	&emsp;
-	<a href="" target="_blank"> 
-    <img alt="Vue" src="https://img.shields.io/badge/Vue.js-2c3e50?logo=vue.js&style=plastic&logoColor=4FC08D">
-  </a> 
-	&emsp;
-  <a href="" target="_blank"> 
-    <img alt="Swagger" src="https://img.shields.io/badge/-Swagger-%23Clojure?style=plastic&logo=Swagger&logoColor=white">
-  </a>
-</p>
-
- ### 🎲 Database
- <p align="left">
- 	&emsp;
-    <a href="#"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white"></a>
-  	&emsp;
-    <a href="#"><img alt="Postgres" src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white"></a>
-	&emsp;
-    <a href="#"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-4169E1?logo=sqlite&logoColor=fff&style=plastic"></a>
-    
-
- ### 🖥️ Softwares & Ferramentas
- 
 <p align="left">
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=plastic&logo=google%20sheets&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Mark Down" src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Microsoft VISIO" img src="https://img.shields.io/badge/Microsoft_Visio-3955A3?style=plastic&logo=microsoft-visio&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=plastic&logo=microsoft-office&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Gimp" src="https://img.shields.io/badge/Gimp-657D8B?style=plastic&logo=gimp&logoColor=FFFFFF"></a>
-  &emsp;
-    <a href="#"><img alt="Gimp" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/Python-blue.svg?style=plastic&logo=python&logoColor=yellow" alt="Python" />
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=Java&logoColor=white" alt="Java" />
 </p>
 
+### 🎨 Front-End
 
- ### 👉 IDEs
- 
 <p align="left">
-&emsp;
-    <a href="#"><img alt="Visual Studio" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=plastic&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white" alt="SASS" />
+  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/-TypeScript-informational.svg?style=plastic&logo=Typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=plastic&logo=JavaScript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/Vue.js-2c3e50?logo=vue.js&style=plastic&logoColor=4FC08D" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=plastic&logo=Swagger&logoColor=white" alt="Swagger" />
 </p>
 
-### 🤝 Collab Tools
+### 🗄️ Banco de Dados
+
 <p align="left">
-&emsp;
-	<a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff"></a>
-  &emsp;
-    <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff" /></a>
+  <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" alt="Postgres" />
+  <img src="https://img.shields.io/badge/SQLite-4169E1?logo=sqlite&logoColor=fff&style=plastic" alt="SQLite" />
 </p>
 
- ### :globe_with_meridians: Sistemas Operacionais
- 
+### 🛠️ Ferramentas & Softwares
+
 <p align="left">
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Google%20Sheets-%2334A853.svg?style=plastic&logo=google%20sheets&logoColor=white" alt="Google Sheets" />
+  <img src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white" alt="Markdown" />
+  <img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
+  <img src="https://img.shields.io/badge/Microsoft_Visio-3955A3?style=plastic&logo=microsoft-visio&logoColor=white" alt="Visio" />
+  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=plastic&logo=microsoft-office&logoColor=white" alt="Office" />
+  <img src="https://img.shields.io/badge/Gimp-657D8B?style=plastic&logo=gimp&logoColor=FFFFFF" alt="Gimp" />
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
-## 📊 Github Status
+### 💻 IDEs
 
-
-  <br/>
-  <p align="left">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Angelo's Github Status" src="https://github-readme-stats.vercel.app/api?username=angelosartoneto&show_icons=true&count_private=true&locale=pt-br&theme=algolia" height="142px"/></a>
-  &nbsp;
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=angelosartoneto&langs_count=10&show_icons=true&locale=pt-br&layout=compact&theme=algolia" alt="angelosartoneto" height="162px"/>
-  </p>
-
-<br/>
-
-## :trophy: Git profile troféus
-
-<p align="left"> <a href="https://github.com/angelosartoneto/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=angelosartoneto&layout=compact&locale=pt-br&theme=algolia" alt="angelosartoneto" /></a> </p>
-
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=angelosartoneto&label=Profile%20views&color=0e75b6&style=plastic" alt="angelosartoneto" /> 
+<p align="left">
+  <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white" alt="Visual Studio" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white" alt="Eclipse" />
 </p>
+
+### 🤝 Ferramentas de Colaboração
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff" alt="Jira" />
+  <img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff" alt="Trello" />
+</p>
+
+### 🌐 Sistemas Operacionais
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white" alt="Windows" />
+</p>
+
+## 📊 GitHub Status
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=angelosartoneto&show_icons=true&count_private=true&locale=pt-br&theme=algolia" height="142px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=angelosarton
